@@ -36,6 +36,7 @@ class Task1 extends StatelessWidget {
                 'All your favorites',
                 textAlign: TextAlign.center,
                 style: TextStyle(
+                  fontFamily: 'Poppins',
                   fontSize: 24,
                   fontWeight: FontWeight.bold,
                   color: Colors.blueGrey[900],
@@ -46,6 +47,7 @@ class Task1 extends StatelessWidget {
                 'Get all your loved foods in one once place,\nyou just place the orer we do the rest',
                 textAlign: TextAlign.center,
                 style: TextStyle(
+                  fontFamily: 'Poppins',
                   fontSize: 14,
                   fontWeight: FontWeight.normal,
                   color: Colors.blueGrey[400],
@@ -65,6 +67,7 @@ class Task1 extends StatelessWidget {
                   child: const Text(
                     'NEXT',
                     style: TextStyle(
+                      fontFamily: 'Poppins',
                       fontSize: 15,
                       fontWeight: FontWeight.bold,
                       color: Colors.white,
@@ -78,6 +81,7 @@ class Task1 extends StatelessWidget {
                 child: Text(
                   'Skip',
                   style: TextStyle(
+                    fontFamily: 'Poppins',
                     fontSize: 14,
                     fontWeight: FontWeight.w500,
                     color: Colors.blueGrey[400],
